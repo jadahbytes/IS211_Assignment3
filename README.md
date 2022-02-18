@@ -63,9 +63,15 @@ using the Datetime module from last week. Using that information, your program s
 something like:
 
 “Hour 12 has 1023 hits”
+
 “Hour 13 has 983 hits”
+
 “Hour 11 has 845 hits”
+
 ...
+
 “Hour 03 has 3 hits”
+
 “Hour 04 has 0 hits”
+
 for all 24 hours of the day.
