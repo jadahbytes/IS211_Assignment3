@@ -1,5 +1,5 @@
 # IS211_Assignment3
-## Week 3 Assignment ­ Text Processing
+## Week 3 Assignment - Text Processing
 ### Overview
 This week’s assignment will be similar to last weeks assignment, in that you will be processing a log file that
 records visits, or ‘hits’, a fictitious website has received in a day. This file will be in CSV format, so you can
