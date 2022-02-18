@@ -5,12 +5,10 @@ import csv
 import re
 
 
-def downloadData(url):
-    """Downloads the data"""
-    with urllib.request.urlopen(url) as response:
-        web_data = response.read().decode('utf-8')
-
-    return web_data
+def downlodData(url):
+    response = urllib.request.urlopen(url)
+    data = response.read().decode('utf-8')
+    return data
 
 
 def main(url):
